@@ -12,9 +12,9 @@ I'm Artak Sukiasyan
 
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" height="40"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" height="40"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" height="40"/>
   <img src="https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white" alt="Qt" height="40"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" height="40"/>
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" height="40"/>
   <img src="https://img.shields.io/badge/-YOLO-00FFFF?logo=darkreader&logoColor=black" alt="YOLO" height="40"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="40"/>
