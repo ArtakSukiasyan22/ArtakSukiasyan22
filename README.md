@@ -1,6 +1,6 @@
 ## Hi there 👋  
 I'm Artak Sukiasyan  
-### Software Engineer | C++ | Python | Computer Vision  
+### Software Engineer
 
 🌍 Based in Gyumri, Armenia  
 💼 3+ years in C++ and 2+ years in Python with a specialization in real-time applications and computer vision.  
