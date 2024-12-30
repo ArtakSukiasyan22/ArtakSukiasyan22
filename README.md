@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋  
+I'm Artak Sukiasyan  
+### Software Engineer | C++ | Python | Computer Vision  
 
-<!--
-**ArtakSukiasyan22/ArtakSukiasyan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in Gyumri, Armenia  
+💼 3+ years in C++ and 2+ years in Python with a specialization in real-time applications and computer vision.  
+📚 Master's in Applied Mathematics and Computer Science, specializing in Intelligent Systems and Robotics.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills  
+- **Programming Languages**: C++, Python  
+- **Technologies**: Qt, OpenCV, YOLO, Docker, TensorFlow  
+- **Tools**: GitHub, Azure Kinect SDK, PyCharm  
+
+---
+### 🔗 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/artak-sukiasyan-0baa54328)  
+- 📫 Email: artak.sukiasyan02@gmail.com  
+
+---
