@@ -1,5 +1,5 @@
 ## Hi there 👋  
-#I'm Artak Sukiasyan  
+I'm Artak Sukiasyan  
 ### Software Engineer
 
 ### 💻 Skills  
