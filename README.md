@@ -3,9 +3,6 @@ I'm Artak Sukiasyan
 ### Software Engineer
 
 🌍 Based in Gyumri, Armenia  
-💼 3+ years in C++ and 2+ years in Python with a specialization in real-time applications and computer vision.  
-📚 Master's in Applied Mathematics and Computer Science, specializing in Intelligent Systems and Robotics.  
-
 ---
 
 ### 💻 Skills  
