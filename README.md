@@ -22,8 +22,6 @@ I'm Artak Sukiasyan
 </p>
 
 ---
-🌍 Based in Gyumri, Armenia  
----
 ### 🔗 Connect with Me  
 
 
