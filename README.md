@@ -5,8 +5,8 @@ I'm Artak Sukiasyan
 ### 💻 Skills  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" height="40"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" height="40"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C++" height="40"/>
   <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white" height="40"/> 
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" height="40"/
   <img src="https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white" alt="Qt" height="40"/>
