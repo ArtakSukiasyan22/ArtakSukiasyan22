@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" height="40"/>  
   <img src="https://img.shields.io/badge/-Azure%20Kinect-008AD7?logo=microsoft&logoColor=white" alt="Azure Kinect SDK" height="40"/>
   <img src="https://img.shields.io/badge/-Conda-4E9B8D?logo=conda&logoColor=white" alt="Conda" height="40"/>
-  <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="40"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="40"/>
+  <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="40"/>
 </p>
 
